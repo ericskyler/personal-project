@@ -1,2 +1,11 @@
-< p style = "font-size:30px"> Be respectful. 
-Be nice. 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal project</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
